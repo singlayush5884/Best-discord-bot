@@ -1,0 +1,23 @@
+{
+    "bot": {
+        "token": "",
+        "prefix": "",
+        "support": "",
+        "permissions": ""
+    },
+    "members": {
+        "owner": "",
+        "dev": ""
+    },
+    "emoji": {
+        "serverinfo": {
+            "owner": ""
+        },
+        "help": {
+            "moderation": "",
+            "botinfo": "",
+            "settings": "",
+            "utility": ""
+        }
+    }
+}
